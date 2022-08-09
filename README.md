@@ -19,3 +19,10 @@ Login
 
 <img src = "images/login.png" width = '400'>
 
+Edit Task
+
+<img src = "images/edit.png" width = '400'>
+
+
+
+
