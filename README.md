@@ -23,6 +23,17 @@ Edit Task
 
 <img src = "images/edit.png" width = '400'>
 
+Updated Main view
+
+<img src = "images/mainview.png" width = '400'>
+
+
+New User Login
+
+<img src = "images/user2.png" width = '400'>
+
+
+
 
 
 
