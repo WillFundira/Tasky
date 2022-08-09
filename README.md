@@ -1,6 +1,6 @@
 # Tasky
 Tasky is a simple to-do-list app written primarily in HTML and Python, with some CSS styling.
-Tasky allows authenticated users to create, edit , delete and update tasks in a basic form of CRUD Database Management. 
+Tasky allows authenticated users to create, edit , delete and update tasks. 
 
 
 I utilized class based views instead of the conventional function based views by following Django Documentation found at the link below: 
