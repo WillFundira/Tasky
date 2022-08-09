@@ -10,10 +10,12 @@ https://docs.djangoproject.com/en/4.1/topics/class-based-views/
 A significant advantage of using class based views is the ability to use inheritance to reuse code in your boilerplate without having to write it again.
 
 Below is a brief montage of the app in use:
+
+
 Registration
 
 <img src = "images/register.png" width = '400'>
 Login
 
-<img src = "images/register.png" width = '400'>
+<img src = "images/login.png" width = '400'>
 
