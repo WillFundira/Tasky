@@ -11,5 +11,5 @@ A significant advantage of using class based views is the ability to use inherit
 
 Below is a brief montage of the app in use:
 
-<img src = "images/register.png" width = '200'>
+<img src = "images/register.png" width = '400'>
 
