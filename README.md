@@ -30,7 +30,7 @@ Updated Main view
 
 New User Login
 
-<img src = "images/user2.png" width = '400'>
+<img src = "images/newuser.png" width = '400'>
 
 
 
